@@ -8,6 +8,5 @@ public class Test {
         int result = a+b;
         System.out.println("Result is: " + result);
 
-        System.out.println("this line is from mac");
     }
 }
